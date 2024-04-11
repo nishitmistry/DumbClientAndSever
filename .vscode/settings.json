@@ -1,0 +1,18 @@
+{
+    "C_Cpp.default.compilerPath": "C:\\msys64\\mingw64\\bin\\gcc.exe",
+    "files.associations": {
+        "winsock2.h": "c",
+        "dnsresolver.h": "c",
+        "socketfactory.h": "c",
+        "systemutils.h": "c",
+        "networkutils.h": "c",
+        "compare": "cpp",
+        "concepts": "cpp",
+        "type_traits": "cpp",
+        "cmath": "cpp",
+        "limits": "cpp",
+        "new": "cpp",
+        "httprequestbuilder.h": "c",
+        "unistd.h": "c"
+    }
+}
